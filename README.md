@@ -5,6 +5,10 @@ In this project I wanted to dive a bit deeper within the Rapsberry Pi 4 device. 
 ## Usage
 
 ```python
+pip install pantilthat
+```
+
+```python
 import pantilthat
 import time
 ```
